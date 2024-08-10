@@ -1,4 +1,4 @@
-package com.example.tripadvisor
+package com.bunab.tripadvisor
 
 import io.flutter.embedding.android.FlutterActivity
 
