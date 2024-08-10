@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657105383521",
+    "project_id": "tripadvisor-94f8f",
+    "storage_bucket": "tripadvisor-94f8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657105383521:android:95e0c8a21598fd70b27a20",
+        "android_client_info": {
+          "package_name": "com.bunab.tripadvisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKLRf-A5LNCcf3RxWDZ4a_GrV5leV-P3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
