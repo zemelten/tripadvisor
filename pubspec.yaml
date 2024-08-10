@@ -86,5 +86,11 @@ flutter:
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #
+  fonts:
+    - family: Trip-Sans
+      fonts:
+        - asset: assets/fonts/trip-sans.otf
+        - asset: assets/fonts/trip-sans-variable.ttf
+        - asset: assets/fonts/trip-sans-bold.otf
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
