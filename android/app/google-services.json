@@ -12,7 +12,20 @@
           "package_name": "com.bunab.tripadvisor"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "657105383521-oe24p64n6v5sa691j2695120jh6kep11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bunab.tripadvisor",
+            "certificate_hash": "fc3e07a9c1d42cfd12efc87dbd660a33ef32e7bf"
+          }
+        },
+        {
+          "client_id": "657105383521-4ghotuovb95jv25tcuuh7kf54q8vdv27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCKLRf-A5LNCcf3RxWDZ4a_GrV5leV-P3k"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657105383521-4ghotuovb95jv25tcuuh7kf54q8vdv27.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657105383521-1jfno22re1h105n47chabmm1keired40.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bunab.tripadvisor"
+              }
+            }
+          ]
         }
       }
     }

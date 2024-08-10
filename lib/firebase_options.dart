@@ -63,6 +63,9 @@ class DefaultFirebaseOptions {
     messagingSenderId: '657105383521',
     projectId: 'tripadvisor-94f8f',
     storageBucket: 'tripadvisor-94f8f.appspot.com',
-    iosBundleId: 'com.example.tripadvisor',
+    androidClientId: '657105383521-oe24p64n6v5sa691j2695120jh6kep11.apps.googleusercontent.com',
+    iosClientId: '657105383521-1jfno22re1h105n47chabmm1keired40.apps.googleusercontent.com',
+    iosBundleId: 'com.bunab.tripadvisor',
   );
+
 }
